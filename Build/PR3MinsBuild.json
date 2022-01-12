@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PuzzleRoyale",
+"productVersion": "1.5.1",
+"dataUrl": "PR3MinsBuild.data.unityweb",
+"wasmCodeUrl": "PR3MinsBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "PR3MinsBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "PR3MinsBuild.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
